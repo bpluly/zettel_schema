@@ -1,0 +1,239 @@
+{
+  "_id": "bpluly",
+  "_rev": "266-df75842c53e60bb38244a50d7f38cf00",
+  "repoInstance": "00000000",
+  "creationTime": "2020-04-06T16:17:33",
+  "zettel_version": "alpha--",
+  "content": {
+  },
+  "userAccount": {
+    "name": "Simon",
+    "familyName": "Lucy",
+    "displayName": "bpluly",
+    "email": "simon.lucy@g30consultants.com",
+    "platforms":[
+      {
+      "platform": "twitter]",
+      "userID": "15078174",
+    },
+  ]
+    "platform": "twitter",
+    "zettelUserID": "bpluly",
+    "twitter_request_token": "FLuxRAAAAAAA_yqlAAABczi2RgY",
+    "request_token": "mYhIEAAAAAAA_yqlAAABcVBIXCE",
+    "requestURL": "https://www.zettel.io/user/kasten/bpluly",
+    "twitter_account": {
+      "id": 15078174,
+      "id_str": "15078174",
+      "name": "Simon_Lucy",
+      "screen_name": "Simon_Lucy",
+      "location": "",
+      "profile_location": null,
+      "description": "I'm a left-angled trapezoid on the graph of political philosophies, apply me no labels. \n\nLatest book Retold Roma Stories https://t.co/TI5nFIabv2",
+      "url": "https://t.co/KiK2QXdVFc",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/KiK2QXdVFc",
+              "expanded_url": "http://lnkd.in/MZF6Ph",
+              "display_url": "lnkd.in/MZF6Ph",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/TI5nFIabv2",
+              "expanded_url": "http://amzn.to/2Yp7LT7",
+              "display_url": "amzn.to/2Yp7LT7",
+              "indices": [
+                122,
+                145
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 595,
+      "friends_count": 1121,
+      "listed_count": 33,
+      "created_at": "Tue Jun 10 21:40:41 +0000 2008",
+      "favourites_count": 7906,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 23233,
+      "lang": null,
+      "status": {
+        "created_at": "Fri Jul 10 11:52:17 +0000 2020",
+        "id": 1281556847108018200,
+        "id_str": "1281556847108018176",
+        "text": "#roon #music #nowplaying https://t.co/WEHZ8oczux",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "roon",
+              "indices": [
+                0,
+                5
+              ]
+            },
+            {
+              "text": "music",
+              "indices": [
+                6,
+                12
+              ]
+            },
+            {
+              "text": "nowplaying",
+              "indices": [
+                13,
+                24
+              ]
+            }
+          ],
+          "symbols": [
+          ],
+          "user_mentions": [
+          ],
+          "urls": [
+          ],
+          "media": [
+            {
+              "id": 1281556845149257700,
+              "id_str": "1281556845149257728",
+              "indices": [
+                25,
+                48
+              ],
+              "media_url": "http://pbs.twimg.com/media/EckBKSKXgAAEbe4.png",
+              "media_url_https": "https://pbs.twimg.com/media/EckBKSKXgAAEbe4.png",
+              "url": "https://t.co/WEHZ8oczux",
+              "display_url": "pic.twitter.com/WEHZ8oczux",
+              "expanded_url": "https://twitter.com/Simon_Lucy/status/1281556847108018176/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 512,
+                  "h": 407,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 512,
+                  "h": 407,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 512,
+                  "h": 407,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1281556845149257700,
+              "id_str": "1281556845149257728",
+              "indices": [
+                25,
+                48
+              ],
+              "media_url": "http://pbs.twimg.com/media/EckBKSKXgAAEbe4.png",
+              "media_url_https": "https://pbs.twimg.com/media/EckBKSKXgAAEbe4.png",
+              "url": "https://t.co/WEHZ8oczux",
+              "display_url": "pic.twitter.com/WEHZ8oczux",
+              "expanded_url": "https://twitter.com/Simon_Lucy/status/1281556847108018176/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 512,
+                  "h": 407,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 512,
+                  "h": 407,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 512,
+                  "h": 407,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"https://roonlabs.com/\" rel=\"nofollow\">Roon Labs</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "5951A3",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1092022449368166400/1P0gfIqY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092022449368166400/1P0gfIqY_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15078174/1561384503",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "suspended": false,
+      "needs_phone_verification": false
+    },
+    "twitter_access_token_key": "15078174-75W3jPjoPfEMJGHZIdM7HEhclFfo3L7NsBU62eQtk",
+    "twitter_access_token_secret": "fDgAhLH6KIyNJcXqLa5NQ001FWnDcZx1i3LYSE4gl46iG"
+  },
+  "registrationStatus": "full",
+  "zettelUserID": "bpluly",
+  "request_token": "mYhIEAAAAAAA_yqlAAABcVBIXCE",
+  "updateTime": "2020-07-10T12:32:18"
+}
